@@ -23,7 +23,7 @@ A powerful Python-based reverse geocoding utility that determines location infor
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/location.git
+   git clone https://github.com/mrchandrayee/LocationFinder.git
    cd location
    ```
 
