@@ -95,7 +95,7 @@ The offline database (`worldcities.csv`) contains comprehensive city data includ
 
 ## License
 
-[MIT License](LICENSE)
+
 
 ## Acknowledgements
 
